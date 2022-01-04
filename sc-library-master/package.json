@@ -1,0 +1,26 @@
+{
+  "name": "sc-library",
+  "version": "0.7.2",
+  "repository": "https://github.com/MyWishPlatform/sc-library.git",
+  "license": "ISC",
+  "bin": {
+    "combine-contracts": "scripts/combineContracts.js"
+  },
+  "scripts": {
+    "compile": "truffle compile",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "lint:sol": "solium -d .",
+    "lint:sol:fix": "solium -d . --fix",
+    "lint:all": "yarn lint && yarn lint:sol",
+    "lint:all:fix": "yarn lint:fix && yarn lint:sol:fix"
+  },
+  "devDependencies": {
+    "eslint": "^5.0.1",
+    "solium": "^1.1.7",
+    "truffle": "^4.1.13"
+  },
+  "dependencies": {
+    "openzeppelin-solidity": "1.10.0"
+  }
+}
