@@ -26,8 +26,7 @@ Deploy your Contract 🚀
 Tips💡:
 
 
-    Scan Verification: We sent the souce code verification providing transparency for users interacting with smart contracts.
-    White label: Contract from a black address, with no metion and reference to Exohood Deployer.
-    Deploy Contract: Your contract is sent to our deployer platform to validate it. This process takes between 3-5 hours.
-    Token allocations Address: please use a different address. It shouldn't be the same as your token owner address. For example, you make another address in Metamask or TrustWallet.
-
+*Scan Verification: We sent the souce code verification providing transparency for users interacting with smart contracts.
+*White label: Contract from a black address, with no metion and reference to Exohood Deployer.
+*Deploy Contract: Your contract is sent to our deployer platform to validate it. This process takes between 3-5 hours.
+*Token allocations Address: please use a different address. It shouldn't be the same as your token owner address. For example, you make another address in Metamask or TrustWallet.
