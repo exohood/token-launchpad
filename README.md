@@ -2,7 +2,7 @@
 
 Choose between the Ethereum network, Binance Smart Chain, Polygon, or Tron to create and deploy your smart contract on a project, company, art, music, asset or a game. You do not need programming knowledge; you only have to follow the instructions below.
 
-Token Intructions ⚠️
+# Token Intructions ⚠️
 
 How to create and deploy a smart contract on Ethereum, Binance Smart Chain, Polygon, TRON with Exohood Token Launchpad
 
