@@ -1,0 +1,17 @@
+{
+  "name": "tron-game-asset",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/exohood/exohood-token-launchpad/game-asset-contract.git",
+  "author": "JJ Uzumaki",
+  "license": "MIT",
+  "scripts": {
+    "combine": "combine-contracts GameAssetContract",
+    "compile": "./scripts/compile.sh"
+  },
+  "dependencies": {
+    "c-preprocessor": "^0.2.12",
+    "sc-library": "github:Exohood/sc-library#0.7.2",
+    "tronbox": "^2.7.14"
+  }
+}
