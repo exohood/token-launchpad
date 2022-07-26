@@ -4,7 +4,7 @@
 
 version: 2
 updates:
-  - package-ecosystem: "exohood-token-launchpad"
+  - package-ecosystem: "sc-library-master"
     directory: "/"
     schedule:
       interval: "weekly"
