@@ -29,7 +29,7 @@
   along with this program. If not, see <http://www.gnu.org/licenses/>.
 */
 pragma solidity ^0.4.24;
-contract Contract {
+contract Livsquare {
     function main() {
         memory[0x40:0x60] = 0x80;
     
