@@ -1,10 +1,10 @@
-# Create and Issue your own Token 🔦
+# Create and Issue your own Token 🪙
 
-Choose between the Ethereum network, Binance Smart Chain, Polygon, or Tron to create and deploy your smart contract on a project, company, art, music, asset or a game. You do not need programming knowledge; you only have to follow the instructions below.
+Choose between the Ethereum network, BNB Chain, Polygon, or Tron to create and deploy your smart contract on a project, company, art, music, asset or a game. You do not need programming knowledge; you only have to follow the instructions below.
 
 # Token Intructions ⚠️
 
-How to create and deploy a smart contract on Ethereum, Binance Smart Chain, Polygon, TRON with Exohood Token Launchpad
+How to create and deploy a smart contract on Ethereum, BNB Chain, Polygon, TRON with Exohood Token Launchpad
 
 
 1. Choose the token offering pack and pay it. Remember the payment is the same network you choose. For example: if you choose Ethereum token the payment is made using  USDT in Ethereum network.
@@ -38,3 +38,7 @@ b. White label: Contract from a black address, with no metion and reference to E
 c. Deploy Contract: Your contract is sent to our deployer platform to validate it. This process takes between 3-5 hours.
 
 d. Token allocations Address: please use a different address. It shouldn't be the same as your token owner address. For example, you make another address in Metamask or TrustWallet.
+
+# Disclaimer
+
+Exohood assumes no responsibility concerning the token creation, the token owner is responsible for the security, accuracy, sales or use of third-party.
