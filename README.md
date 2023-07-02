@@ -4,12 +4,12 @@
 
 Choose between the Ethereum network, BNB Chain, Polygon, or Exohood to create and deploy your smart contract on a project, company, art, music, asset or a game. You do not need programming knowledge; you only have to follow the instructions below.
 
-# Token Intructions ⚠️
+# Token Instructions ⚠️
 
 How to create and deploy a smart contract on Ethereum, BNB Chain, Polygon, Exohood with Exohood Token Launchpad
 
 
-1. Choose the token offering pack and pay it. Remember the payment is the same network you choose. For example: if you choose Ethereum token the payment is made using  USDT in Ethereum network.
+1. Choose the token offering pack and pay it. Remember the payment is the same network you choose. For example: if you choose Ethereum token the payment is made using USDT in Ethereum network.
 
 
 2. Create smart contract:
