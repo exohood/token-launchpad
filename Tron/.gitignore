@@ -1,0 +1,5 @@
+node_modules
+preload.*
+.idea
+build
+contracts/Token.sol
