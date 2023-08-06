@@ -24,7 +24,7 @@
 */
 
 pragma solidity ^0.4.24;
-contract Livsquare {
+contract FCOIN {
     function main() {
 
 const name = 'FCOIN'
