@@ -2,29 +2,30 @@
 
 # Create and Issue your own Token 🪙
 
-Choose between the Ethereum network, BNB Chain, Polygon, or Exohood to create and deploy your smart contract on a project, company, art, music, asset or a game. You do not need programming knowledge; you only have to follow the instructions below.
+Choose between the Ethereum, Base, Solana, Arbitrum, Avalanche, Polygon, Binance. Blast or Exohood to create and deploy your smart contract for a project, company, artwork, music, asset, or game. No programming knowledge is required simply follow the instructions below.
 
 # Token Instructions ⚠️
 
-How to create and deploy a smart contract on Ethereum, BNB Chain, Polygon, Exohood with Exohood Token Launchpad
+How to create and deploy a smart contract on Ethereum, Base, Solana, Arbitrum, Avalanche, Polygon, Binance. Blast or Exohood using the Exohood Token Launchpad:
 
 
-1. Choose the token offering pack and pay it. Remember the payment is the same network you choose. For example: if you choose Ethereum token the payment is made using USDT in Ethereum network.
+1. Choose your token offering package and make the payment.
 
+•	Payments must be made on the same network as your chosen token. For example, if you select an Ethereum token, payment should be made using USDT on the Ethereum network.
 
-2. Create smart contract:
+2. Create your smart contract:
 
-    a. Choose the name of your token: a name for the project or company without spaces, usually 5-25 symbols. Lower and uppercase.
-    
-    b. Token owner: is the same address in which you make the payment.
-    
-    c. Token symbol: Usually 3-4 Letters like ETH, BTC, EXO, etc., Please check that it´s unique before deploying the contract. 
-    
-    d. Decimals: Defines the number of decimals for the token. 0-50 numerals are accepted. 18 are mainly used.
-    
-    e. Token supply: Is the quantity you mint, can be reserved as the tokens for the Team, Rewards or Investors.
-    
-    f. Token allocations Address: Is the address in which you supply your tokens
+a. Token name: Choose a name for your project or company. The name should be 5-25 characters long and can include both uppercase and lowercase letters (no spaces).
+
+b. Token owner address: This should be the same address used to make the payment.
+
+c. Token symbol: Use 3-4 unique letters (e.g., ETH, BTC, EXO). Ensure the symbol is not already in use before deploying the contract.
+
+d. Decimals: Set the number of decimals for your token (e.g., 0-50). The standard is 18 decimals.
+
+e. Token supply: Specify the total quantity to mint. You can allocate tokens for the team, rewards, or investors.
+
+f. Token allocation address: Provide the address where your tokens will be supplied.
 
 
 # Deploy your Contract 🚀
@@ -32,15 +33,14 @@ How to create and deploy a smart contract on Ethereum, BNB Chain, Polygon, Exoho
 
 Tips💡:
 
+a. Scan Verification: We provide source code verification to ensure transparency for users interacting with your smart contract.
 
-a. Scan Verification: We sent the souce code verification providing transparency for users interacting with smart contracts.
+b. White Labeling: Contracts are deployed from a neutral address, with no reference to the Exohood Deployer.
 
-b. White label: Contract from a black address, with no metion and reference to Exohood Deployer.
+c. Contract Deployment: Once submitted, your contract will be sent to our deployment platform for validation. This process typically takes 3-5 hours.
 
-c. Deploy Contract: Your contract is sent to our deployer platform to validate it. This process takes between 3-5 hours.
-
-d. Token allocations Address: please use a different address. It shouldn't be the same as your token owner address. For example, you make another address in Metamask or TrustWallet.
+d. Token Allocation Address: Use a different address from your token owner address (e.g., create another address in MetaMask or Trust Wallet).
 
 # Disclaimer
 
-Exohood assumes no responsibility concerning the token creation, the token owner is responsible for the security, accuracy, sales or use of third-party.
+Exohood assumes no responsibility concerning the token creation, the token owner is responsible for the security, accuracy, sales or use of third party.
